@@ -1,0 +1,31 @@
+
+#img-referencia {
+    width: 175px;
+    height: 85px;
+    border: 1px solid #fff;
+    -moz-box-shadow: 0px 3px 2px #ccc;
+    -webkit-box-shadow: 0px 1px 2px #ccc;
+    box-shadow: 0px 1px 2px #ccc;
+    -moz-border-radius: 65px;
+    -webkit-border-radius: 65px;
+    border-radius: 65px;
+}
+
+body {
+    background-image: url("/UTP_LAVANDERIA_AV/img/bg1.png");
+}
+#tablas{
+    background-color: rgb(131, 140, 165);
+    padding: 1%;
+    font-size: 16px;
+}
+#titulo{
+    padding: 1%;
+    font-size: 12px;
+}
+#ingreso{
+    padding: 6%;
+}
+#texto{
+    font-size: 12px;
+}
